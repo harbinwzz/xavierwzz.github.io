@@ -6,7 +6,7 @@ title: Publications
 
 ## Journal manuscripts
 
-- [Time-Restricted Ketogenic Diet Combined with Exercise Improves Cardiorespiratory Fitness but Compromises Sleep Quality in Overweight and Obese Young Adults: A Randomized Controlled Trial](https://doi.org/10.1139/apnm-2026-0138).<br>**Zongze Wu**; Zhaowei Kong; Mingzhu Hu; Qingde Shi; Jinlei Nie<br>Applied Physiology, Nutrition, and Metabolism. (JCR: Q2; IF: 2.5)<br>
+- [Time-Restricted Ketogenic Diet Combined with Exercise Improves Cardiorespiratory Fitness but Compromises Sleep Quality in Overweight and Obese Young Adults: A Randomized Controlled Trial](https://cdnsciencepub.com/doi/abs/10.1139/apnm-2026-0138).<br>**Zongze Wu**; Zhaowei Kong; Mingzhu Hu; Qingde Shi; Jinlei Nie<br>Applied Physiology, Nutrition, and Metabolism. (JCR: Q2; IF: 2.5)<br>
 
 
 - [Applied Testing and Performance Monitoring in Adolescent Competitive Swimmers: Sex-Specific Correlates of 400 m Front Crawl Performance](https://www.mdpi.com/2076-3417/16/17/8642).<br>Luana Domingues; Sofia Monteiro; **Zongze Wu**; Aléxia Fernandes; Mário J. Costa; Ricardo J. Fernandes<br>Appl. Sci. 2026, 16(17), 8642. (JCR: Q2; IF: 2.9)<br>
