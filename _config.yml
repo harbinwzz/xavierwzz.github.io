@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Zongze Wu   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Zongze Wu. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Zongze Wu, PhD Student at the University of Porto.  # Strongly recommended for SEO & social cards
+description: Here is personal website of Zongze Wu, PhD Candidate at the University of Porto.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -16,7 +16,7 @@ owner:
   name: Zongze Wu
   avatar: me.jpg
   bio: One is never too old to learn.
-  email: zongzepaper@hotmail.com
+  email: up202300046@up.pt
   cv: https://xavierwzz.github.io/file/CV-ZongzeWu.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -89,7 +89,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: xavierwu
+  shortname: XavierWu
 
 
 # include: [".htaccess"]
