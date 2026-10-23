@@ -15,7 +15,7 @@ I am a third-year PhD student in the [Sport Sciences](https://sigarra.up.pt/fade
 
 I have worked on physical education and sport studies, [kinesiology lab](https://cape.fed.um.edu.mo/the-kinesiology-lab/), University of Macau under the guidance of [Prof. Zhaowei Kong](https://scholar.google.com/citations?user=W2eY-WsAAAAJ&hl=zh-TW).
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to contact me at **zongzepaper@hotmail.com**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to contact me at **up202300046@up.pt**
 
 ---
 
@@ -25,8 +25,8 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - Exercise metabolism
 - Biomechanics
 - Nutrition and dietetics
-- Exercise science
+- Exercise sciences
 
 ---
-
+（updated on 2026/10/22)
 <br>

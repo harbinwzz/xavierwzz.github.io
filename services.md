@@ -4,7 +4,7 @@ permalink: /services/index.html
 title: Services
 ---
 
-> I am always happy to write and review manuscripts related to sport science and the intersection of sports with other fields. Please feel free to contact me at zongzepaper@hotmail.com, if you have any requests. 
+> I am always happy to write and review manuscripts related to sport science and the intersection of sports with other fields. Please feel free to contact me at up202300046@up.pt, if you have any requests. 
 
 ## Academic services
 
@@ -22,7 +22,7 @@ title: Services
 
 <br>
 
-## Other Services
+## Other services
 
 - Postgraduate house tutor, University of Macau<br>2020/09-2023/06.
 - President of student union, Harbin Sport University<br>2016/11-2017/11

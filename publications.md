@@ -6,15 +6,29 @@ title: Publications
 
 ## Journal manuscripts
 
-- [Physiological and biomechanical characteristics of inline speed skating: a systematic scoping review](https://www.mdpi.com/2076-3417/15/14/7994).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Appl. Sci. 2025, 15, 7994.<br>
+- [Time-Restricted Ketogenic Diet Combined with Exercise Improves Cardiorespiratory Fitness but Compromises Sleep Quality in Overweight and Obese Young Adults: A Randomized Controlled Trial](https://cdnsciencepub.com/doi/abs/10.1139/apnm-2026-0138).<br>**Zongze Wu**; Zhaowei Kong; Mingzhu Hu; Qingde Shi; Jinlei Nie<br>Applied Physiology, Nutrition, and Metabolism. (JCR: Q2; IF: 2.5)<br>
 
+
+- [Applied Testing and Performance Monitoring in Adolescent Competitive Swimmers: Sex-Specific Correlates of 400 m Front Crawl Performance](https://www.mdpi.com/2076-3417/16/17/8642).<br>Luana Domingues; Sofia Monteiro; **Zongze Wu**; Aléxia Fernandes; Mário J. Costa; Ricardo J. Fernandes<br>Appl. Sci. 2026, 16(17), 8642. (JCR: Q2; IF: 2.9)<br>
+
+
+- [Physiological and biomechanical characteristics of inline speed skating: a systematic scoping review](https://www.mdpi.com/2076-3417/15/14/7994).<br>**Zongze Wu**; Filipa Cardoso; David B. Pyne; Márcio Fagundes Goethel; Ricardo J. Fernandes<br>Appl. Sci. 2025, 15, 7994. (JCR: Q2; IF: 2.9)<br>
   
 
-- [Acute ketone monoester supplementation in young adults: modulating metabolic and neurocognitive functions across body weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Appl. Physiol. Nutr. Metab. 2024. 50: 1-12.<br>
-
+- [Acute ketone monoester supplementation in young adults: modulating metabolic and neurocognitive functions across body weights](https://cdnsciencepub.com/doi/10.1139/apnm-2024-0229).<br>Qian Yu; Ka Kit Wong; On Kei Lei; Paulo Armada-da-Silva; **Zongze Wu**; Jinlei Nie; Qingde Shi; Zhaowei Kong<br>Appl. Physiol. Nutr. Metab. 2024. 50: 1-12. (JCR: Q2; IF: 2.5)<br>
   
 
-- [Cerebral oxygenation and cardiac output responses during short repeated-sprints exercise and modulatory effect of glucose ingestion](https://www.biorxiv.org/content/10.1101/2022.12.05.519099v2).<br>Paulo A. S. Armada-da-Silva; Hu Mingzhu; **Wu Zongze**; Wen Linjian; Feng Ruisen; Xinglin Zeng; Zhen Yuan; Zhaowei Kong<br>bioRxiv, 2022-12.<br>
+- [Cerebral oxygenation and cardiac output responses during short repeated-sprints exercise and modulatory effect of glucose ingestion](https://www.biorxiv.org/content/10.1101/2022.12.05.519099v2).<br>Paulo A. S. Armada-da-Silva; Hu Mingzhu; **Wu Zongze**; Wen Linjian; Feng Ruisen; Xinglin Zeng; Zhen Yuan; Zhaowei Kong<br>bioRxiv, 2022-12. (Preprint)<br>
+
+  <br>
+
+---
+
+## Poster
+
+- [Upper limb swing and lower limb joint kinematics in association with skating velocity during incremental inline speed skating: a case study](https://www.researchgate.net/publication/406925861_Upper_limb_swing_and_lower_limb_joint_kinematics_in_association_with_skating_velocity_during_incremental_inline_speed_skatinga_case_study).<br>**Zongze Wu**; Filipa Cardoso, Sofia Morais Cerqueira, João Paulo Vilas-Boas, David B. Pyne, Márcio Fagundes Goethel, Ricardo J. Fernandes<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future"2026.06.11-13.<br>
+
+- [Sex differences in biomechanical and energetic responses during progressive running: A biophysical approach](https://www.researchgate.net/publication/406930227_Sex_differences_in_biomechanical_and_energetic_responses_during_progressive_running_A_biophysical_approach).<br>Mayara Silva; Sofia Monteiro; **Zongze Wu**; Pedro Figueiredo; Filipe Conceição; Ricardo Fernandes.<br>[International Congress](https://www.up.pt/fadeup/en/50-years/international-congress/about-the-event/): "FADEUP 50 Years. Footprint and Future"2026.06.11-13.<br>
 
   <br>
 
@@ -22,6 +36,12 @@ title: Publications
 
 ## Early projects
 
+**PhD period**
+- Rowing physiological and biomechanical evaluation using traditional and Randall foils.
+[2021.04976.BD](https://repositorio-aberto.up.pt/handle/10216/170707), MOP125,000.00<br>Participated in, 2024-2025.<br>
+Funders: Fundação para a Ciência e a Tecnologia.<br>
+
+**Mater period**
 - Effects of time restricted feeding with high interval training on health outcomes in overweight young females
 [MYRG2020-00266-FED](https://repository.um.edu.mo/handle/10692/92437), MOP125,000.00<br>As a researcher, 2021/04-2023/03.<br>
 Funders: University of Macau.<br>
@@ -46,11 +66,11 @@ Graduation honour: excellent.<br>
 ## Activities
 
 - Academic internship (Heilongjiang ice sports base snow sports training center), excellent intern, 2018.<br>
-- National ice hockey team cross-major selection test (Harbin, Jilin, Shenyang), only undergraduate student(figure 1), in preparation for the 2022 Beijing winter Olympic games. 2017/03.<br>
+- National ice hockey team cross-major selection test (Harbin, Jilin, Shenyang), only undergraduate student(**Figure 1**), in preparation for the 2022 Beijing winter Olympic games. 2017/03.<br>
 - National student fitness standard test (Hohhot, Inner Mongolia), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2017/11.<br>
 - National student fitness standard test (Jinan, Shandong), as a tester, I was appointed by the Ministry of Education of the People's Republic of China and selected by Harbin Sport University. 2016/11.<br>
 <img src="/images/2022olympic.jpg" style="width: 200px; height: 200px; object-fit: cover; padding: 5px;">.<br>
-Figure 1. the second from right.
+**Figure 1**. The second from right.
 
 
   <br>
