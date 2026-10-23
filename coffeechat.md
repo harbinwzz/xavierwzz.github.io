@@ -1,12 +1,12 @@
 
 ---
-title: "Coffee Chat"
-permalink: /coffee-chat/
+title: "coffeechat"
+permalink: /coffeechat/
 layout: single
 author_profile: true
 ---
 
-# Let's Have a Coffee Chat ☕
+# Let's Have a coffeechat ☕
 
 I'd love to meet new people, exchange ideas, and have a relaxed conversation over coffee.
 
@@ -19,7 +19,7 @@ Whether you are interested in sports science, research collaboration, life in Po
 - **Life in Porto:** Hobbies, culture, and everyday experiences.
 - **Casual conversation:** Meet new people and exchange perspectives.
 
-## Book a Coffee Chat
+## Book a coffeechat
 
 Choose a convenient time for a 30-minute conversation. We can meet in person in Porto or arrange an online meeting.
 
